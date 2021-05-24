@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <ui name="Add Event" />
+    <ui name="EventsList" />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Button.align" value="4" />
+        <val key="Button.bgColor" value="3497da" />
+        <val key="Button.fgColor" value="ffffff" />
+        <font key="Button.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="4.0" />
+        <val key="Button.marUnit" value="2,2,2,2" />
+        <val key="Button.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="Button.padUnit" value="2,2,2,2" />
+        <val key="Button.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="Button.transparency" value="255" />
+    </theme>
+</resource>
